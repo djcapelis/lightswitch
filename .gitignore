@@ -15,6 +15,13 @@
 *.dylib
 
 # Executables
+bin/*
+!bin/.gitignore
+lightsd/lightsd
+stated/stated
+ambd/ambd
+switchd/switchd
+webd/webd
 *.exe
 *.out
 *.app
